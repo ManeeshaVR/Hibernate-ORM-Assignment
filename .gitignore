@@ -1,0 +1,9 @@
+.idea
+One_To_One_Relationship.iml
+One_To_Many_Relationship.iml
+Many_To_Many_Relationship.iml
+# Project exclude paths
+/Part_01/One_Entity/target/
+/Part_02/Many_To_Many_Relationship/target/
+/Part_02/One_To_Many_Relationship/target/
+/Part_02/One_To_One_Relationship/target/
